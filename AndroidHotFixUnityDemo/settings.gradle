@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name = "AndroidHotFixUnityTest"
+include ':unityLibrary'
+project(':unityLibrary').projectDir=new File('..\\AndroidHotFixUnityTest\\app\\UnityProject\\unityLibrary')
