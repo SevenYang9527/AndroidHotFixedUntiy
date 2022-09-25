@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ssnows.tileehy",
+    "sha256_cert_fingerprints":
+    ["C4:2F:25:D3:85:D6:12:C6:36:44:EE:76:BA:99:07:06:38:39:4E:BF:E3:F0:D4:D0:73:9A:EA:B2:D7:64:F0:DE"]
+  }
+}]
